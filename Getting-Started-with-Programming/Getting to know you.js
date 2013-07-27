@@ -1,2 +1,2 @@
-<!-- 輸出長度-->
+//輸出長度
 "eagletjhang".length
