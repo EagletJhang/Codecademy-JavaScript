@@ -13,6 +13,7 @@ if (computerChoice < 0.34) {
 var compare = function(choice1,choice2){
 	if (choice1 == choice2){
 		return "The result is a tie!";
+		//return命令一旦实施, 余下的函数内的命令也会停止.
         }
         if (choice1 == "rock"){
         	if (choice2 == "scissors"){
