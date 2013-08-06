@@ -1,5 +1,5 @@
 //First element in the array: junkData[0]
-//Third element in the array: junkData[2]
+//Second element in the array: junkData[1]
 
 var cities = ["Melbourne", "Amman", "Helsinki", "London"];
 
